@@ -6,4 +6,4 @@ const App = ({name}) => {
   return <div>{name} is awesome!</div>;
 };
 
-ReactDOM.render(<App name="Kevin" />, document.querySelector("#root"));
+ReactDOM.render(<App name="Kevin" />, document.querySelector("#root2"));
